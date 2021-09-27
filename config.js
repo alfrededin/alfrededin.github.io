@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Alfred',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -40,9 +40,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Azure Portal',
+      icon: 'azure',
+      link: 'https://portal.azure.com/',
     },
     {
       id: '2',
