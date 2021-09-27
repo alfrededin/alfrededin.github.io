@@ -41,7 +41,7 @@ const CONFIG = {
     {
       id: '1',
       name: 'Azure Portal',
-      icon: 'azure',
+      icon: 'mail',
       link: 'https://portal.azure.com/',
     },
     {
