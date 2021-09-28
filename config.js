@@ -51,7 +51,7 @@ const CONFIG = {
       link: 'https://outlook.office.com/mail/inbox',
     },
     {
-      id: '3',
+      id: '5',
       name: 'Zendesk',
       icon: 'box',
       link: 'https://redeploy.zendesk.com/agent/dashboard',
@@ -63,7 +63,7 @@ const CONFIG = {
       link: 'https://calendar.google.com/calendar/r',
     },
     {
-      id: '5',
+      id: '3',
       name: 'Youtube',
       icon: 'youtube',
       link: 'https://www.youtube.com/',
