@@ -41,38 +41,38 @@ const CONFIG = {
     {
       id: '1',
       name: 'Azure Portal',
-      icon: 'mail',
+      icon: 'cloud',
       link: 'https://portal.azure.com/',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://outlook.office.com/mail/inbox',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Zendesk',
+      icon: 'box',
+      link: 'https://redeploy.zendesk.com/agent/dashboard',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
+      name: 'Twitch',
+      icon: 'twitch',
       link: 'https://calendar.google.com/calendar/r',
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'Youtube',
+      icon: 'youtube',
+      link: 'https://www.youtube.com/',
     },
     {
       id: '6',
       name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      icon: 'book',
+      link: 'https://feber.se/',
     },
   ],
 
@@ -106,16 +106,16 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Feber',
+        link: 'https://feber.se/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Reddit',
+        link: 'https://reddit.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Bostadsförmedlingen',
+        link: 'https://bostad.stockholm.se/',
       },
       {
         name: 'Telegram',
